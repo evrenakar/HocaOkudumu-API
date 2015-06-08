@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22609.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HocaOkudumu.Web", "HocaOkudumu.Web\HocaOkudumu.Web.csproj", "{39C6DC12-C2DE-4B0F-B0A1-4EB14AFD41C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HocaOkudumu.Common", "HocaOkudumu.Common\HocaOkudumu.Common.csproj", "{8FF8BC9C-837C-4327-95E8-5E0D290C074D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39C6DC12-C2DE-4B0F-B0A1-4EB14AFD41C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39C6DC12-C2DE-4B0F-B0A1-4EB14AFD41C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39C6DC12-C2DE-4B0F-B0A1-4EB14AFD41C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39C6DC12-C2DE-4B0F-B0A1-4EB14AFD41C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FF8BC9C-837C-4327-95E8-5E0D290C074D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FF8BC9C-837C-4327-95E8-5E0D290C074D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FF8BC9C-837C-4327-95E8-5E0D290C074D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FF8BC9C-837C-4327-95E8-5E0D290C074D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = HocaOkudumu.Common\\HocaOkudumu.Common.csproj
+		SccProjectName1 = HocaOkudumu.Common
+		SccLocalPath1 = HocaOkudumu.Common
+		SccProjectUniqueName2 = HocaOkudumu.Web\\HocaOkudumu.Web.csproj
+		SccProjectName2 = HocaOkudumu.Web
+		SccLocalPath2 = HocaOkudumu.Web
+	EndGlobalSection
+EndGlobal

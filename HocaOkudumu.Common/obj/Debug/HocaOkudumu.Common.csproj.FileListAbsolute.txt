@@ -1,0 +1,13 @@
+C:\Project\HocaOkudumu\HocaOkudumu\HocaOkudumu.Common\bin\Debug\HocaOkudumu.Common.dll
+C:\Project\HocaOkudumu\HocaOkudumu\HocaOkudumu.Common\bin\Debug\HocaOkudumu.Common.pdb
+C:\Project\HocaOkudumu\HocaOkudumu\HocaOkudumu.Common\bin\Debug\RestSharp.dll
+C:\Project\HocaOkudumu\HocaOkudumu\HocaOkudumu.Common\bin\Debug\ServiceStack.Common.dll
+C:\Project\HocaOkudumu\HocaOkudumu\HocaOkudumu.Common\bin\Debug\ServiceStack.Text.dll
+C:\Project\HocaOkudumu\HocaOkudumu\HocaOkudumu.Common\bin\Debug\ServiceStack.Interfaces.dll
+C:\Project\HocaOkudumu\HocaOkudumu\HocaOkudumu.Common\bin\Debug\RestSharp.xml
+C:\Project\HocaOkudumu\HocaOkudumu\HocaOkudumu.Common\bin\Debug\ServiceStack.Common.pdb
+C:\Project\HocaOkudumu\HocaOkudumu\HocaOkudumu.Common\bin\Debug\ServiceStack.Text.pdb
+C:\Project\HocaOkudumu\HocaOkudumu\HocaOkudumu.Common\bin\Debug\ServiceStack.Interfaces.pdb
+C:\Project\HocaOkudumu\HocaOkudumu\HocaOkudumu.Common\obj\Debug\HocaOkudumu.Common.csprojResolveAssemblyReference.cache
+C:\Project\HocaOkudumu\HocaOkudumu\HocaOkudumu.Common\obj\Debug\HocaOkudumu.Common.dll
+C:\Project\HocaOkudumu\HocaOkudumu\HocaOkudumu.Common\obj\Debug\HocaOkudumu.Common.pdb
