@@ -25,3 +25,6 @@ Tarih bilgisi ise örnekteki gibi gönderilmelidir. Örn: 31.01.2015 Dönüş pa
 "/namazsaatiliste" Bu servis gelecek 30 günün namaz saatlerini getirir. Servisin çalışması için gerekli olan parametreler: Sehir ve Ulke bilgisi.
 
 Parametreler verirken dikkat edilmesi gerekenler.Ulke ve Sehir parametreleri Buyuk harfler ile ve Tükçe karakter olmadan gönderilmelidir. Dönüş parametreleri liste olarak: Gun, Imsak, Gunes, Oglen, Ikindi, Aksam, Yatsi, Kible
+
+<strong>Bonus: İftar ve Sahur Sayacı!</strong>
+<a href="http://hocaokudumu.com" target="_blank">Hocaokudumu.com</a> adresinde iftar ve sahur saatlerine ne kadar kaldığını gösteren bir sayaç scripti bulunmaktadır. Kodlarına ulaşabilir ve kullanabilirsiniz.
