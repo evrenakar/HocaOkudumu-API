@@ -2,7 +2,7 @@
 
 <strong>API KULLANIM</strong>
 
-Hocaokudumu.com iki adet servis sunmaktadır.
+<a href="http://hocaokudumu.com" target="_blank">Hocaokudumu.com</a> iki adet servis sunmaktadır.
 
 1) İstenilen şehrin istenilen gününe ait olan namaz saatlerini getiren ("/namazsaati")
 
