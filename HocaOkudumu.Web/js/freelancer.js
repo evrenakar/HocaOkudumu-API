@@ -205,21 +205,28 @@ $('.navbar-collapse ul li a').click(function() {
             var ikindiAfterData1 = ikindiAfterData[0];
             var ikindiAfterData2 = ikindiAfterData[1];
 
-            //Bir sonraki sahur
-            var imsakAfterData = imsakAfter.split(":");
-            var imsakAfterData1 = imsakAfterData[0];
-            var imsakAfterData2 = imsakAfterData[1];
-
             //İftarı Time formatına çeviriyoruz
-            var iftarDate = new Date(gunData[1] + " " + gunData[0] + "," + gunData[2] + " " + aksamData[0] + ":" + aksamData[1]);
+            var iftarDate = new Date();
+            iftarDate.setDate(gunData1);
+            iftarDate.setMonth(gunData2 - 1);
+            iftarDate.setHours(aksamData1);
+            iftarDate.setMinutes(aksamData2);
             var iftarTime = iftarDate.getTime();
 
             //Sahuru Time formatına çeviriyoruz
-            var sahurDate = new Date(gunData[1] + " " + gunData[0] + "," + gunData[2] + " " + imsakData[0] + ":" + imsakData[1]);
+            var sahurDate = new Date();
+            sahurDate.setDate(gunData1);
+            sahurDate.setMonth(gunData2 - 1);
+            sahurDate.setHours(imsakData1);
+            sahurDate.setMinutes(imsakData2);
             var sahurTime = sahurDate.getTime();
 
             //00:00'dan sonraki sahuru Time formatına çeviriyoruz
-            var sahurAfterDate = new Date(gunAfterData[1] + " " + gunAfterData[0] + "," + gunAfterData[2] + " " + imsakAfterData[0] + ":" + imsakAfterData[1]);
+            var sahurAfterDate = new Date();
+            sahurAfterDate.setDate(gunAfterData1);
+            sahurAfterDate.setMonth(gunAfterData2 - 1);
+            sahurAfterDate.setHours(imsakAfterData1);
+            sahurAfterDate.setMinutes(imsakAfterData2);
             var sahurAfterTime = sahurAfterDate.getTime();
 			
 			$('#getCurrentDate').text(gunData1 + '.' + gunData2 + '.' + gunData3);			
