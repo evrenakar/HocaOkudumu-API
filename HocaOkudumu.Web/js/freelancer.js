@@ -352,6 +352,7 @@ $('.navbar-collapse ul li a').click(function() {
 
     //Şehir değiştir butonuna tıklandı
     $(".cityChangeButton").click(function () {
+    	$("#citySelect").prop('selectedIndex', 0);
         $(".iftarImsakInfo").hide();
         $(".countdownShow").hide();
         $(".selectForm").show();
