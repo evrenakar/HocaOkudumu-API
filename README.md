@@ -34,4 +34,4 @@ Parametreler verirken dikkat edilmesi gerekenler.Ulke ve Sehir parametreleri Buy
 
 <strong>Update</strong>
 - Internet Explorer FIX / 11.06.2015
-
+- City Change FIX / 11.06.2015
