@@ -31,3 +31,7 @@ Parametreler verirken dikkat edilmesi gerekenler.Ulke ve Sehir parametreleri Buy
 <a href="http://hocaokudumu.com" target="_blank">Hocaokudumu.com</a> adresinde iftar ve sahur saatlerine ne kadar kaldığını gösteren bir sayaç scripti bulunmaktadır. Kodlarına ulaşabilir ve kullanabilirsiniz.
 
 <a href="https://www.linkedin.com/in/fehmianac" target="_blank">Fehmi Anaç</a>'a teşekkürler.
+
+<strong>Update</strong>
+- Internet Explorer FIX / 11.06.2015
+
