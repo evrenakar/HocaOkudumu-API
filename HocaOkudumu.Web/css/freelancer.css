@@ -240,7 +240,7 @@ section.success a.active {
 
 @media(max-width:490px) {
     .countdownShow {
-        width: 330px !important;
+        width: 338px !important;
     }
 
    .navbar-brand {
