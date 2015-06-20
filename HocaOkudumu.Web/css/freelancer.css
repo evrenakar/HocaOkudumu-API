@@ -124,6 +124,7 @@ header .intro-text .skills {
 }
 
 @media(min-width:768px) {
+
     header .container {
         padding-top: 150px;
         padding-bottom: 100px;
@@ -136,9 +137,7 @@ header .intro-text .skills {
     header .intro-text .skills {
         font-size: 1.75em;
     }
-}
 
-@media(min-width:768px) {
     .navbar-fixed-top {
         padding: 25px 0;
         -webkit-transition: padding .3s;
@@ -225,7 +224,129 @@ section.success a.active {
     #getCurrentDate{text-align:left !important;}
     .selectForm{text-align:left !important;}
 
+    header .container{
+        padding-top: 0 !important;
+    }
 
+    .navbar-brand{
+        font-size: 30px !important;
+    }
+
+    .countdownShow{
+        width: 490px !important;
+    }
+
+}
+
+@media(max-width:490px) {
+    .countdownShow {
+        width: 330px !important;
+    }
+
+   .navbar-brand {
+        font-size: 20px !important;
+        padding: 18px 15px !important;
+    }
+
+    #countdownContainer .countdownFirstText{
+        float: left !important;
+        padding: 29px 0 !important;
+        text-align: right !important;
+        font-weight: bold !important;
+        font-size: 20px !important;
+    }
+
+    #countdownContainer #countdown_dashboard{
+        float: left !important;
+        height: 110px !important;
+        z-index: 100 !important;
+        padding: 17px 20px !important;
+        margin: 0 5px !important;
+    }
+
+    #countdownContainer #countdown_dashboard .hoursContainer{
+            width: 50px !important;
+    }
+    
+    #countdownContainer #countdown_dashboard .hoursContainer .dash{
+            width: 50px !important;
+            height: 50px !important;
+            padding: 2px 12px !important;
+    }
+
+    #countdownContainer #countdown_dashboard .hoursContainer .dash .digit{
+        font-size: 20px !important;
+    }
+
+    #countdownContainer #countdown_dashboard .hoursContainer .countdownHour{
+        font-size: 16px !important;
+        padding: 8px 0 !important;
+    }
+
+    #countdownContainer #countdown_dashboard .seperator {
+        font-size: 30px !important;
+        margin: 0 3px !important;
+    }
+
+    #countdownContainer #countdown_dashboard .minutesContainer {
+            width: 50px !important;
+    }
+
+    #countdownContainer #countdown_dashboard .minutesContainer .dash {
+        width: 50px !important;
+        height: 50px !important;
+        padding: 2px 12px !important;
+    }
+
+    #countdownContainer #countdown_dashboard .minutesContainer .dash .digit {
+        font-size: 20px !important;
+    }
+
+    #countdownContainer #countdown_dashboard .minutesContainer .countdownMinute {
+        font-size: 16px !important;
+        padding: 8px 0 !important;
+    }
+
+    #countdownContainer .countdownLastText{
+            padding: 29px 0 !important;
+    }
+
+
+
+
+
+}
+
+@media(max-width:1199px) {
+
+    #countdownContainer  #countdown_dashboard{
+        padding: 0 20px !important;
+    }
+}
+
+@media(max-width:991px) {
+
+    #countdownContainer  #countdown_dashboard{
+        padding: 0 20px;
+    }
+
+    .row{
+        margin-top:40px;
+    }
+
+    .iftarImsakInfo{
+        float: left !important;
+    }
+
+    .col-md-6{
+        float: right;
+    }
+
+    .countdownShow{
+        float:inherit !important;
+        width: 630px;
+        margin: 0 auto;
+    }
 }
 
 #portfolio .portfolio-item {
@@ -642,7 +763,7 @@ footer .footer-below {
     margin: 20px 0;
 }
 
-.intro-text {margin: 10px 0;}
+.intro-text {margin: 10px 20px;}
 .intro-text .imsakVakti{font-size: 24px;margin: 0 15px;}
 .intro-text .ogleVakti{font-size: 24px;margin: 0 15px;}
 .intro-text .ikindiVakti{font-size: 24px;margin: 0 15px;}

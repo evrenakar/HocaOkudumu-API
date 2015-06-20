@@ -1,7 +1,7 @@
 /*!
- * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
- * Code licensed under the Apache License v2.0.
- * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ * Script Yazarı: Evren AKAR
+ * API Yazarı: Fehmi Anaç
+ * www.hocaokudumu.com
  */
 
 // jQuery for page scrolling feature - requires jQuery Easing plugin
@@ -234,6 +234,7 @@ $('.navbar-collapse ul li a').click(function() {
             //Hesaplamaya Başla
             if (time < sahurTime) {
                 //00:00'dan sonra sahura kadar
+				console.log("hocaokudumu.com");
 
                 $(".iftarImsak .text").html("sahur vakti:");
                 $("#countdownContainer .countdownFirstText").html("SAHURA");
@@ -265,7 +266,7 @@ $('.navbar-collapse ul li a').click(function() {
             else if (time < iftarTime) {
                 //Sahurdan sonra iftara kadar
 
-                console.log("iftara kaldı");
+                console.log("iftara kaldı - hocaokudumu.com");
 
                 $(".iftarImsak .text").html("iftar vakti:");
                 $("#countdownContainer .countdownFirstText").html("İFTARA");
@@ -297,7 +298,7 @@ $('.navbar-collapse ul li a').click(function() {
             else if (time < sahurAfterTime) {
                 //İftardan sonra 00:00'a kadar
 
-                console.log("Sonraki Sahur");
+                console.log("Sonraki Sahur - hocaokudumu.com");
 
                 $(".iftarImsak .text").html("sahur vakti:");
                 $("#countdownContainer .countdownFirstText").html("SAHURA");
@@ -324,7 +325,7 @@ $('.navbar-collapse ul li a').click(function() {
                 });
             }
             else {
-                console.log("Garip şeyler oluyor..");
+                console.log("Garip şeyler oluyor.. - hocaokudumu.com");
             }
         }
     }
