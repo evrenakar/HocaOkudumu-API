@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\HocaOkudumu</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/HocaOkudumu.Common.dll">
+      <publishTime>11/20/2017 12:13:13</publishTime>
+    </File>
+    <File Include="bin/HocaOkudumu.Common.dll.config">
+      <publishTime>11/20/2017 11:52:43</publishTime>
+    </File>
+    <File Include="bin/HocaOkudumu.Common.pdb">
+      <publishTime>11/20/2017 12:13:13</publishTime>
+    </File>
+    <File Include="bin/HocaOkudumu.Web.dll">
+      <publishTime>11/20/2017 12:13:13</publishTime>
+    </File>
+    <File Include="bin/HocaOkudumu.Web.pdb">
+      <publishTime>11/20/2017 12:13:13</publishTime>
+    </File>
+    <File Include="bin/RestSharp.dll">
+      <publishTime>11/19/2017 01:44:00</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Api.Swagger.dll">
+      <publishTime>12/02/2013 23:04:52</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Common.dll">
+      <publishTime>12/02/2013 23:05:00</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.dll">
+      <publishTime>12/02/2013 23:05:02</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Interfaces.dll">
+      <publishTime>12/02/2013 23:05:00</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.OrmLite.dll">
+      <publishTime>11/12/2011 03:14:32</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.OrmLite.pdb">
+      <publishTime>11/12/2011 03:14:32</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.OrmLite.SqlServer.dll">
+      <publishTime>11/12/2011 03:14:32</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.OrmLite.SqlServer.pdb">
+      <publishTime>11/12/2011 03:14:32</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Redis.dll">
+      <publishTime>11/01/2011 00:21:14</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Redis.pdb">
+      <publishTime>11/01/2011 00:21:14</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.ServiceInterface.dll">
+      <publishTime>12/02/2013 23:05:02</publishTime>
+    </File>
+    <File Include="bin/ServiceStack.Text.dll">
+      <publishTime>12/02/2013 22:49:04</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="css/freelancer.css">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="font-awesome/css/font-awesome.css">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="font-awesome/css/font-awesome.min.css">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/fontawesome-webfont.eot">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/fontawesome-webfont.svg">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/fontawesome-webfont.ttf">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/fontawesome-webfont.woff">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/FontAwesome.otf">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="img/logo.png">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="img/portfolio/cabin.png">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="img/portfolio/cake.png">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="img/portfolio/circus.png">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="img/portfolio/game.png">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="img/portfolio/safe.png">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="img/portfolio/submarine.png">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="img/profile.png">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>11/20/2017 12:09:55</publishTime>
+    </File>
+    <File Include="js/bootstrap.js">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="js/cbpAnimatedHeader.js">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="js/cbpAnimatedHeader.min.js">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="js/classie.js">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="js/contact_me.js">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="js/countdown.js">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="js/freelancer.js">
+      <publishTime>11/20/2017 12:13:02</publishTime>
+    </File>
+    <File Include="js/jqBootstrapValidation.js">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="js/jquery.cookie.js">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="js/jquery.js">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="mail/contact_me.php">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>11/20/2017 11:48:50</publishTime>
+    </File>
+    <File Include="swagger-ui/css/hightlight.default.css">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="swagger-ui/css/screen.css">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="swagger-ui/images/logo_small.png">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="swagger-ui/images/pet_store_api.png">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="swagger-ui/images/throbber.gif">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="swagger-ui/images/wordnik_api.png">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="swagger-ui/index.html">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="swagger-ui/lib/backbone-min.js">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="swagger-ui/lib/handlebars-1.0.rc.1.js">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="swagger-ui/lib/highlight.7.3.pack.js">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="swagger-ui/lib/jquery-1.8.0.min.js">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="swagger-ui/lib/jquery.ba-bbq.min.js">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="swagger-ui/lib/jquery.slideto.min.js">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="swagger-ui/lib/jquery.wiggle.min.js">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="swagger-ui/lib/swagger.js">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="swagger-ui/lib/underscore-min.js">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="swagger-ui/swagger-ui.js">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="swagger-ui/swagger-ui.min.js">
+      <publishTime>11/20/2017 11:46:29</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/20/2017 12:13:14</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
