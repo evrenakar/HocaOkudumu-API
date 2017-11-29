@@ -1,5 +1,9 @@
-﻿################################################################################
+################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
 /.vs/HocaOkudumu/v15
+HocaOkudumu.Common/bin/
+packages/System.Threading.4.3.0/lib/xamarintvos10/_._
+HocaOkudumu.Web/obj/
+packages/
